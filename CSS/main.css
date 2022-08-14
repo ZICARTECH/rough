@@ -1,0 +1,15 @@
+#GRACE{
+    font-size: 30px;
+    color: rgb(39, 223, 177);
+    margin: 0px;
+    padding: 0px;
+    text-transform: capitalize;
+}
+
+.GRACE{
+    font-size: 50px;
+    color:rgb(22, 212, 63);
+    margin:0%;
+    padding:0%;
+    text-transform: uppercase;
+}
